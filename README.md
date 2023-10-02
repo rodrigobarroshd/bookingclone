@@ -1,1 +1,2 @@
-# Booking Clone App made with React Native and Firebase
+# Booking Clone App made with React Native 
+
